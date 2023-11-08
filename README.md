@@ -13,4 +13,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->![Uploading notion.svg…]()
 
-<a href="https://super-king-raccoon.vercel.app/" target="_blank"><img src="https://img.shields.io/badge/notion-000000?style=flat-square&logo=&logoColor=000000"/></a>
+<a href="https://super-king-raccoon.vercel.app/" target="_blank"><img src="https://img.shields.io/badge/Notion-000000?style=flat-square&logo=&logoColor=000000"/></a>
