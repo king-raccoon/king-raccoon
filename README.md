@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 <a href="https://super-king-raccoon.vercel.app/" target="_blank"><img src="https://img.shields.io/badge/Blog-000000?style=flat-square&logo=Notion&logoColor=white"/></a>
 <a href="mailto:dlduswp0408@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Mail-EA4335?style=flat-square&logo=E-Mail&logoColor=white"/></a>
 <a href="https://github.com/king-raccoon/" target="_blank"><img src="https://img.shields.io/badge/Github-181717?style=flat-square&logo=Github&logoColor=white"/></a>
-
+## GOAL : SECURITY MASTER
 🌱Hello! I am currently a student **majoring in Computer Scienc**e at Hongik University. Among various fields, I am focusing on **studying security**.
 
 ## Skills
