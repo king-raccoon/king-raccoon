@@ -14,3 +14,13 @@ Here are some ideas to get you started:
 -->
 
 <a href="https://super-king-raccoon.vercel.app/" target="_blank"><img src="https://img.shields.io/badge/Blog-000000?style=flat-square&logo=Notion&logoColor=white"/></a>
+<a href="mailto:dlduswp0408@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Mail-EA4335?style=flat-square&logo=E-Mail&logoColor=white"/></a>
+<a href="https://github.com/king-raccoon/" target="_blank"><img src="https://img.shields.io/badge/Github-181717?style=flat-square&logo=Github&logoColor=white"/></a>
+
+🌱Hello! I am currently a student **majoring in Computer Scienc**e at Hongik University. Among various fields, I am focusing on **studying security**.
+
+## Skills
+![Python](https://img.shields.io/badge/Python-3776AB000000?style=for-the-badge&logo=python&logoColor=white)
+![C](https://img.shields.io/badge/C-0A8B9CC.svg?&style=for-the-badge&logo=C&logoColor=white)
+![C++](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=Java&logoColor=white)
+![Java](https://img.shields.io/badge/Java-007396.svg?&style=for-the-badge&logo=Java&logoColor=white)
