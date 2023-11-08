@@ -13,4 +13,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<a href="https://super-king-raccoon.vercel.app/" target="_blank"><img src="https://img.shields.io/badge/Notion-000000?style=flat-square&logo=Blog&logoColor=white"/></a>
+<a href="https://super-king-raccoon.vercel.app/" target="_blank"><img src="https://img.shields.io/badge/Blog-000000?style=flat-square&logo=Notion&logoColor=white"/></a>
