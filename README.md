@@ -21,6 +21,6 @@ Here are some ideas to get you started:
 
 ## Skills
 ![Python](https://img.shields.io/badge/Python-3776AB000000?style=for-the-badge&logo=python&logoColor=white)
-![C](https://img.shields.io/badge/C-0A8B9CC.svg?&style=for-the-badge&logo=C&logoColor=white)
+![C](https://img.shields.io/badge/C-A8B9CC.svg?&style=for-the-badge&logo=C&logoColor=white)
 ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-007396.svg?&style=for-the-badge&logo=Java&logoColor=white)
