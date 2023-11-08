@@ -1,5 +1,3 @@
-### Hi there 👋
-
 <!--
 **king-raccoon/king-raccoon** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -14,3 +12,4 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+<a href="https://super-king-raccoon.vercel.app/" target="_blank"><img src="https://img.shields.io/badge/notion-black?style=flat-square&logo=Blog&logoColor=000000"/></a>
