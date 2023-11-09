@@ -38,7 +38,7 @@ Here are some ideas to get you started:
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=platypus9948)](https://solved.ac/platypus9948/)
 
 ## CTF
-<a href="https://play.picoctf.org/users/King_raccoon" target="_blank"><img src="https://img.shields.io/badge/PicoCTF-C39FCA?style=flat-square&logo=&logoColor=white"/></a>
+<a href="https://play.picoctf.org/users/King_raccoon" target="_blank"><img src="https://img.shields.io/badge/PicoCTF-C39FCA?style=for-the-badge&logo=&logoColor=white"/></a>
 
 
 
